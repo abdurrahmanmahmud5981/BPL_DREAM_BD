@@ -1,0 +1,114 @@
+ [
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "biddingPrice": 1000
+    },
+    {
+      "playerId": 2,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "biddingPrice": 8000
+    },
+    {
+      "playerId": 3,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg/330px-Jasprit_Bumrah_in_PMO_New_Delhi.jpg",
+      "role": "Bowler",
+      "bowlingType": "Fast",
+      "biddingPrice": 12000
+    },
+    {
+      "playerId": 4,
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/AB_de_villiers_%28cropped%29.jpg/330px-AB_de_villiers_%28cropped%29.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "biddingPrice": 15000
+    },
+    {
+      "playerId": 5,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kane_Williamson_in_2019.jpg/330px-Kane_Williamson_in_2019.jpg",
+      "role": "Batsman",
+      "battingType": "Right-handed",
+      "biddingPrice": 7000
+    },
+    {
+      "playerId": 6,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/330px-Rashid_Khan.jpg",
+      "role": "Bowler",
+      "bowlingType": "Leg Spin",
+      "biddingPrice": 1000
+    },
+    {
+      "playerId": 7,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/330px-Mushfiqur_Rahim_2018_%28cropped%29.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm ",
+      "biddingPrice": 12000
+    },
+    {
+      "playerId": 8,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Andre_Russell_%281%29.jpg/330px-Andre_Russell_%281%29.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Fast",
+      "biddingPrice": 15000
+    },
+    {
+      "playerId": 9,
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "imageURL": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_960,q_50/lsci/db/PICTURES/CMS/206700/206785.5.jpg",
+      "role": "Batsman",
+      "battingType": "Left-handed",
+      "biddingPrice": 8000
+    },
+    {
+      "playerId": 10,
+      "name": "Bhuvneshwar Kumar",
+      "country": "India",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bhuvneshwar_kumar_With_Rashid_Zirak_%28Bhuvneshwar_Kumar_cropped%29.jpg/330px-Bhuvneshwar_kumar_With_Rashid_Zirak_%28Bhuvneshwar_Kumar_cropped%29.jpg",
+      "role": "Bowler",
+      "bowlingType": "Medium-fast",
+      "biddingPrice": 6000
+    },
+    {
+      "playerId": 11,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Andre_Russell_%281%29.jpg/330px-Andre_Russell_%281%29.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Fast",
+      "biddingPrice": 15000
+    },
+    {
+      "playerId": 7,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mushfiqur_Rahim_2018_%28cropped%29.jpg/330px-Mushfiqur_Rahim_2018_%28cropped%29.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-handed",
+      "bowlingType": "Right-arm ",
+      "biddingPrice": 12000
+    }
+  ]
